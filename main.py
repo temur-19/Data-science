@@ -41,9 +41,7 @@ def average_attack_by_type(data):
 print(data.head(10))
 print(f"Ustunlar soni: {count_columns(data)}")
 print(f"Qatorlar soni: {count_rows(data)}")
-
 print(f"Legendary Pokemonlar soni: {len(legendary_pokemon(data))}")
-
 print(f"Pokemon turlari eng ko'p: {eng_kop_turlar(data)}") 
 print(f"Eng tez Pokemon: {fast_pokemon(data)['Name'].values[0]}")
 print(f"1-chi avlod Pokemonlar soni: {len(generation1(data))}")
