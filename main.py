@@ -5,6 +5,7 @@ import kagglehub
 
 data = kagglehub.dataset_download("abcsds/pokemon")
 file_path = data + '/Pokemon.csv'
+
 def load_data(file_path):
     data = pd.read_csv(file_path)
     return data
