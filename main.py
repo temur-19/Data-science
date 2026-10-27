@@ -33,11 +33,14 @@ def fast_pokemon(data):
 
 def generation1(data):
 	gen1 = data[data['Generation'] == 1]
-	return gen1
+	return gen1	
 
 def average_attack_by_type(data):
 	attack_types = data.groupby('Type 1')['Attack'].mean().sort_values(ascending=False)
 	return attack_types
+
+data.value_counts()
+
 
 print(data.head(10))
 print(f"Ustunlar soni: {count_columns(data)}")
