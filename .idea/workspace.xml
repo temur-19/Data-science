@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65600b6-c314-4e0d-a280-b0f6f10ed55d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressiya_multi_natija.png" beforeDir="false" afterPath="$PROJECT_DIR$/regressiya_multi_natija.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressiya_natija.png" beforeDir="false" afterPath="$PROJECT_DIR$/regressiya_natija.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="58" />
+    <option name="cachedIndexableFilesCount" value="15374" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,10 +25,69 @@
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6372803136596312" />
+      <entry key="MS500" value="1.9138314502294005" />
+      <entry key="S2" value="1.9777245612102328" />
+      <entry key="S5" value="1.991029563264079" />
+      <entry key="S10" value="1.995504677670617" />
+      <entry key="S30" value="1.9984993082744409" />
+      <entry key="S60" value="1.9992493724163358" />
+      <entry key="M2" value="1.9996246157515007" />
+      <entry key="M5" value="1.9998498293876141" />
+      <entry key="M10" value="1.9999249118746938" />
+      <entry key="M15" value="1.9999499406233054" />
+      <entry key="M30" value="1.9999749699984022" />
+      <entry key="H1" value="1.9999874849208874" />
+      <entry key="H2" value="1.9999937424408651" />
+      <entry key="H4" value="1.9999968712155378" />
+      <entry key="D1" value="1.9999994785352433" />
+      <entry key="W1" value="1.9999999255050183" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0775213251659639" />
+      <entry key="MS500" value="1.644194204582772" />
+      <entry key="S2" value="1.8966778456100803" />
+      <entry key="S5" value="1.957369420297404" />
+      <entry key="S10" value="1.978461540366971" />
+      <entry key="S30" value="1.9927703301030701" />
+      <entry key="S60" value="1.9963788548913426" />
+      <entry key="M2" value="1.9981878470988572" />
+      <entry key="M5" value="1.999274759196466" />
+      <entry key="M10" value="1.9996373162943761" />
+      <entry key="M15" value="1.9997581967931697" />
+      <entry key="M30" value="1.9998790913611553" />
+      <entry key="H1" value="1.9999395439216159" />
+      <entry key="H2" value="1.9999697715210545" />
+      <entry key="H4" value="1.999984885650587" />
+      <entry key="D1" value="1.9999974809264949" />
+      <entry key="W1" value="1.9999996401319826" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LaC1t9BBCq8LkY7unQlAOmIEdB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +103,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/temur/Documents/vs_da/work/Data-science",
+    "last_opened_file_path": "/home/temur/Documents/vs_da/work/Login-JWT",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +114,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-84eaadda3698-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.27258.51" />
+        <option value="bundled-python-sdk-4b552f920794-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.27258.133" />
       </set>
     </attachedChunks>
   </component>
@@ -68,5 +130,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
