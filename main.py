@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import geopandas as gpd
 import folium
+import os
 
 
 data = pd.read_csv('data/kuSazUvM7khSVz7bsLxLUmeNdUf6zWYm4NCxYECn.csv')
@@ -26,8 +27,8 @@ def make_map(df):
     for _, row in gdf.iterrows():
         folium.Marker(
             location=[row['lat'], row['lon']],
-            popup=row['name'],
-            tooltip=row['name'],
+            popup=row['nomi'],
+            tooltip=row['nomi'],
             icon=folium.Icon(color='red')
         ).add_to(m)
 
@@ -35,9 +36,9 @@ def make_map(df):
 
     m.save('data/map.html')
     print('Map saved')
-print(data)
 print(data.shape)
 print(geodata(data))
+make_map(data)
 
 
 
