@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65600b6-c314-4e0d-a280-b0f6f10ed55d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/uy_ijarasi_clean.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data-science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-science.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regressiya_multi_natija.png" beforeDir="false" afterPath="$PROJECT_DIR$/regressiya_multi_natija.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regressiya_natija.png" beforeDir="false" afterPath="$PROJECT_DIR$/regressiya_natija.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data" beforeDir="false" afterPath="$PROJECT_DIR$/Data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter/main1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressiya_multi_natija.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/regressiya_multi_natija.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regressiya_natija.png" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/regressiya_natija.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uy_ijarasi_clean.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,61 +33,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.6372803136596312" />
-      <entry key="MS500" value="1.9138314502294005" />
-      <entry key="S2" value="1.9777245612102328" />
-      <entry key="S5" value="1.991029563264079" />
-      <entry key="S10" value="1.995504677670617" />
-      <entry key="S30" value="1.9984993082744409" />
-      <entry key="S60" value="1.9992493724163358" />
-      <entry key="M2" value="1.9996246157515007" />
-      <entry key="M5" value="1.9998498293876141" />
-      <entry key="M10" value="1.9999249118746938" />
-      <entry key="M15" value="1.9999499406233054" />
-      <entry key="M30" value="1.9999749699984022" />
-      <entry key="H1" value="1.9999874849208874" />
-      <entry key="H2" value="1.9999937424408651" />
-      <entry key="H4" value="1.9999968712155378" />
-      <entry key="D1" value="1.9999994785352433" />
-      <entry key="W1" value="1.9999999255050183" />
+      <entry key="MS100" value="1.907455328486643" />
+      <entry key="MS500" value="2.3938745226347926" />
+      <entry key="S2" value="2.797486195832092" />
+      <entry key="S5" value="2.917903953780164" />
+      <entry key="S10" value="3.064698833513018" />
+      <entry key="S30" value="5.440299398666844" />
+      <entry key="S60" value="11.837151046352517" />
+      <entry key="M2" value="24.480536328248014" />
+      <entry key="M5" value="57.19161741592106" />
+      <entry key="M10" value="106.41432647259698" />
+      <entry key="M15" value="141.7494414435672" />
+      <entry key="M30" value="197.40951503308645" />
+      <entry key="H1" value="236.79992337568012" />
+      <entry key="H2" value="260.36686575934306" />
+      <entry key="H4" value="273.27464848931" />
+      <entry key="D1" value="284.65335721613695" />
+      <entry key="W1" value="286.66328723505063" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS500" value="6.697063000740641E-90" />
+      <entry key="S2" value="5.087109642457842E-23" />
+      <entry key="S5" value="1.2100071347027067E-9" />
+      <entry key="S10" value="3.552452685898198E-5" />
+      <entry key="S30" value="0.04329292168879231" />
+      <entry key="S60" value="0.3302230223204551" />
+      <entry key="M2" value="1.0888484511273024" />
+      <entry key="M5" value="2.779790267842648" />
+      <entry key="M10" value="4.538652191733039" />
+      <entry key="M15" value="5.652215687717078" />
+      <entry key="M30" value="7.336945508967816" />
+      <entry key="H1" value="8.510476864670812" />
+      <entry key="H2" value="9.210053905628047" />
+      <entry key="H4" value="9.59292554327046" />
+      <entry key="D1" value="9.930400226420199" />
+      <entry key="W1" value="9.990013228627127" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0775213251659639" />
-      <entry key="MS500" value="1.644194204582772" />
-      <entry key="S2" value="1.8966778456100803" />
-      <entry key="S5" value="1.957369420297404" />
-      <entry key="S10" value="1.978461540366971" />
-      <entry key="S30" value="1.9927703301030701" />
-      <entry key="S60" value="1.9963788548913426" />
-      <entry key="M2" value="1.9981878470988572" />
-      <entry key="M5" value="1.999274759196466" />
-      <entry key="M10" value="1.9996373162943761" />
-      <entry key="M15" value="1.9997581967931697" />
-      <entry key="M30" value="1.9998790913611553" />
-      <entry key="H1" value="1.9999395439216159" />
-      <entry key="H2" value="1.9999697715210545" />
-      <entry key="H4" value="1.999984885650587" />
-      <entry key="D1" value="1.9999974809264949" />
-      <entry key="W1" value="1.9999996401319826" />
+      <entry key="MS100" value="1.3763864209761094" />
+      <entry key="MS500" value="2.0386253163116073" />
+      <entry key="S2" value="2.6313567661062685" />
+      <entry key="S5" value="2.8405966796007474" />
+      <entry key="S10" value="3.0168957903076246" />
+      <entry key="S30" value="5.420433283736838" />
+      <entry key="S60" value="12.06937474690157" />
+      <entry key="M2" value="25.45138710335101" />
+      <entry key="M5" value="59.873039377547755" />
+      <entry key="M10" value="110.8846142144146" />
+      <entry key="M15" value="147.34971026228243" />
+      <entry key="M30" value="204.7163695080346" />
+      <entry key="H1" value="245.29408055854122" />
+      <entry key="H2" value="269.56840210837095" />
+      <entry key="H4" value="282.8632202504165" />
+      <entry key="D1" value="294.5830181082529" />
+      <entry key="W1" value="296.65319450199104" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,6 +102,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "Python.main4.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,18 +110,29 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/temur/Documents/vs_da/work/Login-JWT",
+    "last_opened_file_path": "/home/temur/Documents/vs_da/work/Data-science",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.externalTools"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Jupyter" />
+      <recent name="$PROJECT_DIR$/Data" />
+      <recent name="$PROJECT_DIR$/graphics" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4b552f920794-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.27258.133" />
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
       </set>
     </attachedChunks>
   </component>
