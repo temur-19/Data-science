@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d65600b6-c314-4e0d-a280-b0f6f10ed55d" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Data/uy_ijarasi_clean.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data-science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data" beforeDir="false" afterPath="$PROJECT_DIR$/Data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,13 @@
   </component>
   <component name="EmbeddingIndexingInfo">
     <option name="cachedIndexableFilesCount" value="15374" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,61 +37,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000000453" />
-      <entry key="MS500" value="1.0057477360715752" />
-      <entry key="S2" value="1.5291681523090708" />
-      <entry key="S5" value="3.428510670922363" />
-      <entry key="S10" value="6.101389383660614" />
-      <entry key="S30" value="9.925762094468235" />
-      <entry key="S60" value="11.337203269431976" />
-      <entry key="M2" value="12.301573329652516" />
-      <entry key="M5" value="20.12605324799056" />
-      <entry key="M10" value="51.034690174080055" />
-      <entry key="M15" value="87.64383190841362" />
-      <entry key="M30" value="173.79930288014813" />
-      <entry key="H1" value="258.30184162637534" />
-      <entry key="H2" value="318.9405490950221" />
-      <entry key="H4" value="355.48666043538645" />
-      <entry key="D1" value="389.7064877390867" />
-      <entry key="W1" value="395.94848040141727" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001313550912" />
+      <entry key="S2" value="1.0514256074958734" />
+      <entry key="S5" value="1.9672358948582551" />
+      <entry key="S10" value="4.030725663507896" />
+      <entry key="S30" value="8.032157224021564" />
+      <entry key="S60" value="9.94079729739716" />
+      <entry key="M2" value="12.52942201945132" />
+      <entry key="M5" value="20.30503460838362" />
+      <entry key="M10" value="30.545613031073582" />
+      <entry key="M15" value="40.96310207358696" />
+      <entry key="M30" value="87.18729428276437" />
+      <entry key="H1" value="180.35182347512955" />
+      <entry key="H2" value="283.9627463938008" />
+      <entry key="H4" value="363.01524845739834" />
+      <entry key="D1" value="449.0954157395726" />
+      <entry key="W1" value="466.0960153465362" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.3133516674127564E-288" />
-      <entry key="S5" value="1.0193105165632318E-115" />
-      <entry key="S10" value="3.260525411720404E-58" />
-      <entry key="S30" value="9.064349825388935E-20" />
-      <entry key="S60" value="4.778231962681896E-10" />
-      <entry key="M2" value="4.1418787225369475E-5" />
-      <entry key="M5" value="0.04743555719650347" />
-      <entry key="M10" value="0.5928883149583563" />
-      <entry key="M15" value="1.4551777696758101" />
-      <entry key="M30" value="3.7227507201608305" />
-      <entry key="H1" value="6.06217161606341" />
-      <entry key="H2" value="7.773190975053904" />
-      <entry key="H4" value="8.812916523735616" />
-      <entry key="D1" value="9.791025524810566" />
-      <entry key="W1" value="9.969861491204682" />
+      <entry key="MS500" value="9.27027608775547E-214" />
+      <entry key="S2" value="5.517891634264144E-54" />
+      <entry key="S5" value="4.974042423984395E-22" />
+      <entry key="S10" value="2.2318365255642737E-11" />
+      <entry key="S30" value="3.0658081360756964E-4" />
+      <entry key="S60" value="0.021805020682286798" />
+      <entry key="M2" value="0.20703762623298175" />
+      <entry key="M5" value="1.0757697423306662" />
+      <entry key="M10" value="2.4161295347499165" />
+      <entry key="M15" value="3.5979891786648643" />
+      <entry key="M30" value="6.832023862553937" />
+      <entry key="H1" value="11.406790762970534" />
+      <entry key="H2" value="15.795483847775607" />
+      <entry key="H4" value="18.94051043617664" />
+      <entry key="D1" value="22.248171818583618" />
+      <entry key="W1" value="22.89057619839285" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.982981809672527E-9" />
-      <entry key="MS500" value="0.023875860174622208" />
-      <entry key="S2" value="0.8952062462457857" />
-      <entry key="S5" value="3.0960389685467167" />
-      <entry key="S10" value="5.917365048997757" />
-      <entry key="S30" value="9.85972022047058" />
-      <entry key="S60" value="11.303530050491213" />
-      <entry key="M2" value="12.284533373698874" />
-      <entry key="M5" value="20.16228949433846" />
-      <entry key="M10" value="51.60859674101665" />
-      <entry key="M15" value="89.07575094855092" />
-      <entry key="M30" value="177.49907237368674" />
-      <entry key="H1" value="264.3474895308936" />
-      <entry key="H2" value="326.7037811555742" />
-      <entry key="H4" value="364.29410306164834" />
-      <entry key="D1" value="399.4965254309483" />
-      <entry key="W1" value="405.91819882829185" />
+      <entry key="MS100" value="0.047695600280017465" />
+      <entry key="MS500" value="0.5441213069123273" />
+      <entry key="S2" value="0.9076086661543166" />
+      <entry key="S5" value="1.895010651396744" />
+      <entry key="S10" value="3.984923976865311" />
+      <entry key="S30" value="8.012484225550997" />
+      <entry key="S60" value="9.94905012589609" />
+      <entry key="M2" value="12.717914462609954" />
+      <entry key="M5" value="21.346881679098736" />
+      <entry key="M10" value="32.92129499264018" />
+      <entry key="M15" value="44.521854557680626" />
+      <entry key="M30" value="93.98587739159156" />
+      <entry key="H1" value="191.73312032268396" />
+      <entry key="H2" value="299.74142764446185" />
+      <entry key="H4" value="381.94592842328626" />
+      <entry key="D1" value="471.3417012483925" />
+      <entry key="W1" value="488.98631523222326" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,7 +115,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/temur/Documents/vs_da/work/Login-Fastapi",
+    "last_opened_file_path": "/home/temur/Documents/vs_da/work/Data-science",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",

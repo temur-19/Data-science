@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (Data-science)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="~/Documents/vs_da/work/Data-science/venv" project-jdk-type="Python SDK" />
 </project>
